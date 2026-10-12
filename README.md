@@ -22,16 +22,16 @@
     🔹
     <a href="https://github.com/vadhiyarajalpa4-cyber/jalpa_portfolio">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/vadhiyarajalpa4-cyber/jalpa_portfolio">Request Feature</a>
+    <a href="jalpa-portfolio-eight.vercel.app">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to (https://github.com/vadhiyarajalpa4-cyber/jalpa_portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [jalpa-portfolio-eight.vercel.app]. Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://github.com/vadhiyarajalpa4-cyber/jalpa_portfolio" target="_blank">JALPA.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="jalpa-portfolio-eight.vercel.app" target="_blank">JALPA.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
