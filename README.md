@@ -27,7 +27,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/vadhiyarajalpa4-cyber/jalpa_portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to (https://github.com/vadhiyarajalpa4-cyber/jalpa_portfolio). Thanks!
 
 ## Built With
 
