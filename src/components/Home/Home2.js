@@ -1,0 +1,61 @@
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import avtar1 from "../../Assets/avtar1.png";
+import Tilt from "react-parallax-tilt";
+
+function Home2() {
+  return (
+    <Container fluid className="home-about-section" id="about">
+      <Container>
+        <Row>
+          <Col md={8} className="home-about-description">
+            <h1 style={{ fontSize: "2.6em" }}>
+              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+            </h1>
+            <p className="home-about-body">
+              I’m a Full Stack Developer who loves transforming ideas into
+              reliable, scalable products. Over time, I’ve explored several
+              technologies and found my passion in building high-performance
+              systems and intuitive user experiences.
+              <br />
+              <br />
+              I’m proficient in
+              <i>
+                <b className="purple">
+                  {" "}
+                  JavaScript,React, Node.js, and Java{" "}
+                </b>
+              </i>
+              — and I enjoy working across both backend and frontend stacks.
+              <br />
+              <br />
+              My key areas of interest include developing
+              <i>
+                <b className="purple">
+                  {" "}
+                  Web Applications{" "}
+                </b>
+              </i>
+              and exploring new ways to make impressive website.
+              <br />
+              <br />
+              Whenever possible, I love building projects with
+              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              <i>
+                <b className="purple">React.js</b> and{" "}
+                <b className="purple">Next.js</b> and{" "}
+                <b className="purple">Css Bootstrap</b>.
+              </i>
+            </p>
+          </Col>
+          <Col md={4} className="myAvtar">
+            <Tilt>
+              <img src={avtar1} className="img-fluid" alt="avatar1" />
+            </Tilt>
+          </Col> 
+          </Row>
+      </Container>
+    </Container>
+  );
+}
+export default Home2;
